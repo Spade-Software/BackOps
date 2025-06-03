@@ -6,9 +6,16 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'BackOps',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/Spade-Software/BackOps' }],
 			sidebar: [
+				{
+					label: 'Start Here',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'BackOps 101', slug: 'start-here/getting-started' },
+					],
+				},
 				{
 					label: 'Guides',
 					items: [
