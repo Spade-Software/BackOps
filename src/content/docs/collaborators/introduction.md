@@ -34,10 +34,32 @@ Each of these collaborators can have one or more users working within BackOps on
 
 ## 🧭 Collaborator Interface
 
-When you select a collaborator in BackOps, you’ll land on their **collaborator dashbaord**, with tabs across the top for several key sections:
+When you select a collaborator from the left hand navigation in BackOps, you’ll land on their **collaborator dashbaord**, with tabs across the top for several key sections:
 
 - **Dashboard** – A summary view of activity, requests, and status
 - **Advancing** – Used to submit technical needs and interact with assigned modules
 - **Schedule** – A space to outline timelines, key dates, or work blocks
 - **Contacts** – Shows contact info for key members of the collaborators team
 - **Settings** – Manage user roles, access, and collaborator-specific preferences
+
+# 🗂️ Collaborator Management Interface
+
+Managing collaborators across your event is simple with the **Collaborator Management Interface**, accessible via the main left-hand navigation.
+
+## 📋 Viewing and Navigating Collaborators
+
+- In the **left-side navigation bar**, under the **Collaborators** section, click **Manage Collaborators**.
+- You’ll land on a **table view** showing all collaborators currently added to the event.
+- Each row displays high-level collaborator info for quick reference.
+- **Clicking on any collaborator** will instantly open that collaborator’s profile—taking you to their **Dashboard** and full set of tools (Advancing, Schedule, Contacts, and Settings).
+
+## ➕ Adding a Collaborator
+
+- In the **top right corner**, click **Add Collaborator**.
+- Enter the name of the collaborator (e.g., “Lighting Vendor” or “Stage A Artist”).
+- Once created, the new collaborator is immediately added to the event and available for configuration.
+
+## 🔍 Searching Collaborators
+
+- Use the **search bar** in the top right of the interface to quickly find a collaborator by name.
+- Especially useful for large events with dozens (or hundreds) of collaborators.
