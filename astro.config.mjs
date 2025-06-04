@@ -13,21 +13,17 @@ export default defineConfig({
           sidebar: [
               {
                   label: 'Start Here',
-                  items: [
-                      // Each item here is one entry in the navigation menu.
-                      { label: 'BackOps 101', slug: 'start-here/getting-started' },
-                  ],
+                  autogenerate: { directory: 'start-here' },
+
               },
               {
                   label: 'Guides',
-                  items: [
-                      // Each item here is one entry in the navigation menu.
-                      { label: 'Example Guide', slug: 'guides/example' },
-                  ],
+                  autogenerate: { directory: 'guides' },
+
               },
               {
-                  label: 'Reference',
-                  autogenerate: { directory: 'reference' },
+                  label: 'Modules',
+                  autogenerate: { directory: 'modules' },
               },
           ],
 		  customCss: [
