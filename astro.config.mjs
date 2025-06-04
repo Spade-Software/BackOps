@@ -31,7 +31,20 @@ export default defineConfig({
         },
         {
           label: 'Modules',
-          autogenerate: { directory: 'modules' },
+          items: [
+            {
+              label: 'Modules Overview',
+              link: '/modules/introduction',
+            },
+            {
+              label: 'Global Modules',
+              autogenerate: { directory: 'modules/globalModules' },
+            },
+            {
+              label: 'Area Modules',
+              autogenerate: { directory: 'modules/areaModules' },
+            },
+          ],
         },
         {
           label: 'Schedule',

@@ -67,135 +67,19 @@ Defining areas allows your team to coordinate operations, assign resources, and 
 
 These three concepts—**Events**, **Collaborators**, and **Areas**—are the foundation of BackOps. Every feature in the platform connects back to one of these.
 
-## 🧩 4. Modules
-
-**Modules** are how BackOps delivers specific functionality to your events. Think of them as **feature bundles**—each focused on a particular part of event operations.
-
-Modules **cross-cut across Events, Collaborators, and Areas**, meaning they’re not locked to one part of the platform. Instead, they flexibly integrate into your event wherever needed.
+Here’s a concise summary you can place on the **Core Concepts** page to introduce Modules before directing users to the full section:
 
 ---
 
-### 🎛 What Do Modules Do?
+### 🧩 Modules (Quick Overview)
 
-Modules define what kind of functionality is available and to whom. Some examples of common modules include:
+**Modules** are how BackOps delivers functionality to your event—like requesting gear, submitting credentials, managing labor, or tracking technical needs. They work across **Events**, **Collaborators**, and **Areas**, adapting to the structure of your show.
 
-- **Lighting Module** – Technical specs, power requests, fixture lists
-- **Video Module** – Screen dimensions, signal routing, playback setup
-- **Staging Module** – Plot approvals, riser needs, build requirements
-- **Catering Module** – Meal schedules, dietary needs, service times
-- **Labor Management** – Role scheduling, check-in/check-out, time tracking
-- **Transportation** – Shuttle planning, airport pickup, routing
-- **Credentials** – Access passes, wristbands, badge creation
-- **Power Requests** – Generator hookups, distro planning
+Modules come in two types:
 
-…and many more.
+- **Global Modules** apply event-wide (e.g., Radios, Vehicles, Credentials)
+- **Area Modules** apply to specific zones (e.g., Audio for Stage A, Power for VIP)
 
----
+Each collaborator only sees the modules they need—keeping the experience clean, relevant, and efficient.
 
-### 🧠 Smart Configuration
-
-Modules are **highly configurable**. You can choose which modules to enable:
-
-- **Per Collaborator** – Only show what’s relevant to that vendor, artist, or team.
-- **Per Area** – Tailor available features to each zone (e.g., Main Stage vs. Catering Tent).
-
-This keeps the experience focused and clutter-free—your users only see what they need to engage with.
-
----
-
-### 👨‍🍳 Example: Simplifying for a Food Vendor
-
-Let’s say you’re bringing in a food vendor who:
-
-- Needs power
-- Will submit a basic work schedule
-- Requires staff credentials
-- Has delivery vehicles to register
-
-You could enable just the following modules for them:
-
-- **Power**
-- **Scheduling**
-- **Credentials**
-- **Vehicles**
-
-That vendor’s interface is now streamlined and focused—no distractions from unrelated modules like lighting plots or rigging specs.
-
----
-
-### ✅ The Takeaway
-
-Modules are how BackOps adapts to the complexity of your show _without overwhelming your collaborators._
-They’re flexible, powerful, and designed to keep everyone working in exactly the space they need to.
-
-## 🔄 Module Types: Global vs. Area-Based
-
-In BackOps, **not all modules behave the same way**. To better support the real-world needs of live event logistics, modules are categorized into two distinct types:
-
-- **Global Modules**
-- **Area Modules**
-
-Understanding the difference is key to properly assigning and configuring functionality across your event.
-
----
-
-### 🌐 Global Modules
-
-**Global Modules** are used across the entire event and are **not tied to a specific area**.
-
-These modules represent functions or resources that either:
-
-- Span multiple physical zones (e.g., radios used site-wide), or
-- Simply **don’t make sense to restrict to a location** (e.g., credentials or package notifications).
-
-#### 🧰 Examples of Global Modules:
-
-- **Heavy Equipment Requests**
-- **Radio Requests**
-- **Credential Requests**
-- **Guest Lists**
-- **Labor Management**
-- **Vehicle Registration**
-- **Golf Carts / Utility Carts**
-- **Package Notifications**
-
-These modules allow users to make requests, submit forms, or interact with workflows at the **event-wide level**, no matter where the activity happens.
-
----
-
-### 📍 Area Modules
-
-**Area Modules** are tied directly to **specific locations** within your event.
-
-These modules are used when **context matters**—like knowing which stage needs power, or where a specific lighting rig will be installed.
-
-#### 🧰 Examples of Area Modules:
-
-- **Audio**
-- **Video**
-- **Lighting**
-- **Power**
-- **Backline**
-- **Special Effects**
-- **Staging**
-- **Hospitality**
-- **Gear Requests**
-
-When a collaborator uses an Area Module, they’ll be prompted to provide information about **where** the request or activity applies. This ensures precise planning and operational clarity.
-
----
-
-### 🎛️ Assigning Module Access
-
-You can configure module access for collaborators in two ways:
-
-| Module Type       | Assigned By                           | Example Use Case                                                                                        |
-| ----------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Global Module** | On a per-collaborator basis           | A food vendor needs to request radios and submit vehicle info                                           |
-| **Area Module**   | On a per-collaborator, per-area basis | A vendor needs to submit power and Gear for the main stage, but only power for the production compound. |
-
-This flexible permissions model ensures that:
-
-- Users only see the tools relevant to them
-- No one is overwhelmed by features they don’t need
-- Planners can maintain tight control over operational workflows
+🔗 [Learn more about Modules →](/modules/introduction)
