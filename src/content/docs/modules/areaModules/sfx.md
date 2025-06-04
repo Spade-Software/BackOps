@@ -1,5 +1,5 @@
 ---
-title: 🎆 Special Effects (SFX) Module
+title: 🎆 Special Effects (SFX)
 description: Talks through the SFX Module
 lastUpdated: 2025-06-04
 sidebar:

@@ -1,5 +1,5 @@
 ---
-title: 🎥 Video Module
+title: 🎥 Video
 description: Talks through the Video Module
 lastUpdated: 2025-06-04
 sidebar:

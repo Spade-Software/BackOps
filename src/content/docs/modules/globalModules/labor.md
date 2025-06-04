@@ -1,12 +1,10 @@
 ---
-title: Labor Module
+title: 👷 Labor
 description: Talks through the Labor Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 8
 ---
-
-## 👷 Labor Module
 
 The **Labor module** is a **global module** used to manage on-site labor requests from collaborators. Whether for load-in, setup, operations, or teardown, this module helps event organizers coordinate staffing needs across departments—ensuring the right people are in the right place at the right time.
 

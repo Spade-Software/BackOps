@@ -1,12 +1,10 @@
 ---
-title: Credentials
+title: 🎟️ Credentials
 description: Talks through the Credentials Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 5
 ---
-
-## 🎟️ Credentials Module
 
 The **Credentials module** is a **global module** used to manage access passes, wristbands, badges, and other credentials for collaborators entering your event site.
 

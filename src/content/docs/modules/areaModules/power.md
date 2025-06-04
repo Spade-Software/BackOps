@@ -1,5 +1,5 @@
 ---
-title: ⚡ Power Module
+title: ⚡ Power
 description: Talks through the Power Module
 lastUpdated: 2025-06-04
 sidebar:

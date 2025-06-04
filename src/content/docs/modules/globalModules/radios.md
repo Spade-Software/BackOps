@@ -1,12 +1,10 @@
 ---
-title: Radios
+title: 📡 Radio
 description: Talks through the Carts Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 4
 ---
-
-## 📡 Radio Module
 
 The **Radio module** is a **global module** used to manage communication equipment requests across your event. Radios are often centrally provided by the production team to ensure seamless, unified communication among staff, vendors, and crew.
 
