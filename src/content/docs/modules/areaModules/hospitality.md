@@ -1,5 +1,5 @@
 ---
-title: 🧃 Hospitality Module
+title: 🧃 Hospitality
 description: Talks through the Hospitality Module
 lastUpdated: 2025-06-04
 sidebar:

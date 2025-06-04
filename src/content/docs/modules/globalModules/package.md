@@ -1,12 +1,10 @@
 ---
-title: Packages
+title: 📦 Package
 description: Talks through the Packages Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 6
 ---
-
-## 📦 Package Module
 
 The **Package module** is a **global module** used to track and manage shipments sent directly to the event site. It helps ensure that **last-minute deliveries**—like gear, merchandise, or supplies—are expected, received, and routed correctly.
 

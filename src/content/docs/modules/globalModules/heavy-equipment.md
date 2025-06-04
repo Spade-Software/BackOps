@@ -1,12 +1,10 @@
 ---
-title: Heavy Equipment
+title: 🚜 Heavy Equipment
 description: Talks through the Carts Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 3
 ---
-
-## 🚜 Heavy Equipment Module
 
 The **Heavy Equipment module** is a **global module** used to manage requests for heavy machinery on-site. From forklifts to boom lifts, this tool helps organizers plan equipment needs efficiently—reducing cost, overlap, and logistical friction.
 

@@ -1,12 +1,10 @@
 ---
-title: Vehicles
+title: 🚐 Vehicles
 description: Walks through the Vehicles Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 1
 ---
-
-## 🚐 Vehicles Module
 
 The **Vehicles module** is a **global module** in BackOps, used to track and manage all vehicles a collaborator plans to bring on site. This helps production teams manage access, credentials, parking, and logistics throughout the event lifecycle.
 

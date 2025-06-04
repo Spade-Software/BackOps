@@ -1,5 +1,5 @@
 ---
-title: 🥁 Backline Module
+title: 🥁 Backline
 description: Talks through the Backline Module
 lastUpdated: 2025-06-04
 sidebar:

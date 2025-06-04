@@ -1,5 +1,5 @@
 ---
-title: 🎭 Staging Module
+title: 🎭 Staging
 description: Talks through the Staging Module
 lastUpdated: 2025-06-04
 sidebar:

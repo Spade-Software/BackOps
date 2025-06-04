@@ -1,5 +1,5 @@
 ---
-title: 🔊 Audio Module
+title: 🔊 Audio
 description: Talks through the Audio Module
 lastUpdated: 2025-06-04
 sidebar:

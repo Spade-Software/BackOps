@@ -1,5 +1,5 @@
 ---
-title: 💡 Lighting Module
+title: 💡 Lighting
 description: Talks through the Lighting Module
 lastUpdated: 2025-06-04
 sidebar:

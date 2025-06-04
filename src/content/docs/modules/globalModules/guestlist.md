@@ -1,12 +1,10 @@
 ---
-title: Guest List
+title: 🎫 Guest List
 description: Talks through the Carts Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 7
 ---
-
-## 🎫 GuestList Module
 
 The **GuestList module** is a **global module** used to manage artist guest entries for events. Unlike staff or crew credentials, guest list entries are used to grant **patron-level access** to individuals attending on behalf of a performer or collaborator.
 

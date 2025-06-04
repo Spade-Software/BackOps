@@ -1,12 +1,10 @@
 ---
-title: Carts
+title: 🛺 Golf Carts
 description: Talks through the Carts Module
 lastUpdated: 2025-06-04
 sidebar:
   order: 2
 ---
-
-## 🛺 Golf Carts Module
 
 The **Golf Carts module** is a **global module** used to manage and track golf cart requests across your event. Golf carts are a common on-site transport method in the live entertainment industry, and this module ensures teams and collaborators have what they need to get around efficiently.
 
