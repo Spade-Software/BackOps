@@ -1,24 +1,23 @@
 // @ts-check
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
-
-import tailwindcss from '@tailwindcss/vite'
+import tailwindcss from '@tailwindcss/vite';
+import starlightNextjsTheme from 'starlight-nextjs-theme';
 
 // https://astro.build/config
 export default defineConfig({
+  redirects: {
+    '/': '/start-here/introduction',
+    '/index': '/start-here/introduction',
+  },
   integrations: [
     starlight({
-      title: 'BackOps',
-      social: [
-        {
-          icon: 'github',
-          label: 'GitHub',
-          href: 'https://github.com/Spade-Software/BackOps',
-        },
-      ],
+      plugins: [starlightNextjsTheme()],
+      title: 'BackOps Docs',
       sidebar: [
         {
           label: 'Start Here',
+          collapsed: false,
           autogenerate: { directory: 'start-here' },
         },
         {
