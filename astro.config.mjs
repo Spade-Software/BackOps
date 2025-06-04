@@ -7,9 +7,6 @@ import starlightNextjsTheme from 'starlight-nextjs-theme';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://docs.backopslive.com/',
-  // redirects: {
-  //   '/': '/start-here/introduction',
-  // },
   integrations: [
     starlight({
       plugins: [starlightNextjsTheme()],
