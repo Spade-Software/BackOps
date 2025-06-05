@@ -18,7 +18,7 @@ These settings define your event’s core information:
   The official event title. This displays in the Events list and serves as the primary identifier throughout BackOps.
 
 - **Location**  
-  The physical or virtual venue where the event takes place (e.g., “Convention Center, Hall A” or “Zoom Webinar Room”). This appears on schedules, maps, and any location-based reports.
+  The physical or virtual venue where the event takes place (e.g., “Columbus Convention Center, Hall A” or “Zoom Webinar Room”). This appears on schedules, maps, and any location-based reports.
 
 ---
 
@@ -28,28 +28,34 @@ Enable and configure modules to manage specific resource categories. Each module
 
 ### Carts
 
-**Types**: These represent the cart models collaborators can request for this module.  
-- Example Types: “Golf Cart”, “Utility Cart”, “Flatbed Cart”
+**Types**: These represent the cart models collaborators can request for this module.
+
+- Example Types: “4-pass”, "6-Pass", “Utility Cart”, “Flatbed Cart”
 
 ### Vehicles
 
-**Types**: These represent the vehicle categories collaborators can request for this module.  
-  - Example Types: “Van”, “Box Truck”, “Passenger Bus”
+**Types**: These represent the vehicle categories collaborators can request for this module.
 
-**Credentials**: Specify which credentials or licenses are required to operate each vehicle category.  
-  - Example Credentials: “Class B CDL”, “Forklift Operator Certification”
+- Example Types: “Van”, “Box Truck”, “Passenger Bus”
+
+**Credentials**: Specify which credentials are available to be assigned to vehicles.
+
+- Example Credentials: “Site Pass”, “Lot C Parking Pass”
 
 ### Radios
 
-**Types**: These represent the radio models or frequency bands collaborators can request for this module.  
-  - Example Types: “UHF Handheld”, “VHF Base Station”, “Digital Two-Way Radio”
+**Types**: These represent the radio Types collaborators can request for this module.
+
+- Example Types: “Handheld”, “Dog Bone”, “Double Muff”, "In Ear"
 
 ### Heavy Equipment
 
-**Types**: These represent the heavy equipment categories collaborators can request for this module.  
-  - Example Types: “Telehandler”, “Scissor Lift”, “Backhoe Loader”
+**Types**: These represent the heavy equipment categories collaborators can request for this module.
+
+- Example Types: “Telehandler”, “Scissor Lift”, “Backhoe Loader”
 
 ### Credentials
 
-**Types**: These represent the credential classes you want to allow collaborators to request for this module.  
-  - Example Types: “Event Staff Pass”, “Vendor Badge”, “Press Credential”, “Volunteer ID”
+**Types**: These represent the credential classes you want to allow collaborators to request for this module.
+
+- Example Types: “Artist”, “Vendor”, “Crew”, “All Access”

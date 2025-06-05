@@ -4,73 +4,80 @@ description: A guide to creating your first event
 lastUpdated: 2025-06-04
 ---
 
-Follow these steps to create and configure your very first event in BackOps.
+## Creating Your First Event
+
+Welcome to BackOps! If you're ready to dive in and create your first event, this guide will walk you through the initial setup step by step.
+
+### Step 1: Sign In & Land on the Events Page
+
+Once you've signed in, you'll land on the **Events Page**. This page lists all events you’ve created or been granted access to by others.
+
+### Step 2: Add a New Event
+
+Click the **Add Event** button in the top-right corner. You’ll be prompted to fill out the following:
+
+- **Name** – The name of your event (e.g., “Sunset Music Festival 2025”).
+- **Location** – The full address of your event site. This is used for shipping, weather modules, and more, so accuracy matters.
+- **Default Collaborator** – This represents the primary company producing the event. If you’re the event producer, use your company name. You’ll automatically be added as the first user under that collaborator.
+
+After submitting, you'll be redirected to the **Event Dashboard**.
 
 ---
 
-## 1. Add Event Details
+### Step 3: Configure Event Settings
 
-1. Navigate to the **Events** page from the main sidebar.
-2. Click **Create Event**.
-3. In the event form, fill out:
-   - **Name**: e.g., “Summer Fest 2025”
-   - **Location**: e.g., “Central Park, New York”
-4. Click **Save Event**.  
-   Your new event will appear in the list of events, and you’ll be taken to its overview page.
+Navigate to the **Event Settings** (bottom-left of the sidebar), then select the **Modules** tab.
+This is where you'll configure key settings for:
 
----
+- Carts
+- Radios
+- Credentials
+- Vehicles
+- Labor
+- Heavy Equipment
 
-## 2. Add Your Areas
+> 🔗 _[See full guide on Event Module Settings](#)_
 
-1. From the event overview, switch to the **Manage Areas** tab.
-2. Click **Add Area** (usually a button in the top-right corner).
-3. For each area you need, enter:
-   - **Area Name** (e.g., “Main Stage”, “VIP Lounge”, “Backstage”)
-   - Any additional details if prompted (like capacity or description)
-4. Click **Save**.  
-   Repeat until all required areas are created. You’ll see them listed under the Manage Areas tab.
+Configuring these early ensures your advancing and procurement flows function properly.
 
 ---
 
-## 3. Add Collaborators
+### Step 4: Set Up Areas
 
-1. In the event overview, go to the **Manage Collaborators** tab.
-2. Click **Add Collaborator**.
-3. Fill in:
-   - **Name**: The collaborator’s full name
-   - **Email**: Where invitation notifications will be sent
-   - **Role**: Choose a predefined role or custom permission set
-4. Click **Save**.  
-   Repeat this process for each person you want on your core team. Each collaborator will now appear in the list, ready for module configuration.
+Go to **Areas** > **Manage Areas** from the sidebar.
+Click **Add Area** (top-right corner) and enter a name for each physical location on your event site (e.g., “Main Stage,” “Catering Tent,” “Ops HQ”).
+
+You can add more later—don’t worry about getting it perfect upfront.
 
 ---
 
-## 4. Configure Module Settings for Each Collaborator
+### Step 5: Add Collaborators
 
-1. While still in **Manage Collaborators**, locate the collaborator you want to configure.
-2. Click the **Module Settings** button/icon next to their name.
-3. Toggle on/off the specific modules they need access to, such as:
-   - **Scheduling**
-   - **Inventory**
-   - **Check-In**
-   - **Reporting**
-4. Adjust any module-specific options as needed
-5. Click **Save Settings**.
+Navigate to **Collaborators** > **Manage Collaborators**.
+Click **Add Collaborator** to begin listing all your vendors, artists, staff companies, etc.
 
-Repeat for each collaborator until everyone has the correct modules enabled.
+Each collaborator represents a company working on your event.
 
 ---
 
-## 5. Invite Your Team in the Collaborator User Section
+### Step 6: Invite Users
 
-1. Switch to the **Collaborator Users** tab
-2. Click **Invite User**.
-3. Enter:
-   - **Email**: Their email address
-   - **Permissions/Role**: Assign the correct access level
-4. Click **Send Invitation**.  
-   Each invited user will receive an email with a link to accept and join the event in BackOps.
+Click into a collaborator, then go to **Settings** > **Users**.
+Invite individuals representing that company by entering their email addresses.
 
-Once your invitations are sent, monitor the “Pending” column to see who has accepted. After they join, they’ll appear under “Active Collaborators.”
+If they already have a BackOps account, they’ll be added immediately. If not, they’ll receive an invitation to join.
 
-Congratulations — you’ve successfully created your first event!
+---
+
+### Step 7: Enable Modules for Collaborators
+
+While inside a collaborator’s **Settings**, go to the **Modules** tab.
+Enable the modules they’ll need for advancing. Mark required modules to track their progress and ensure they complete the necessary info.
+
+---
+
+### You’re All Set!
+
+With your event, areas, collaborators, and module settings configured, you’re ready to begin advancing and scheduling.
+
+Explore additional sections of the documentation to go deeper into each feature. And of course, if you need help, our team is always happy to support you.
