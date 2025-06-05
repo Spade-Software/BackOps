@@ -1,12 +1,10 @@
 ---
-title: 💡 Lighting
+title: Lighting
 description: Talks through the Lighting Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 3
 ---
 
-The **Lighting module** is an **area-based module** used in the **artist advancing process** to define responsibilities, gear requirements, and staffing needs related to lighting.
+The **Lighting module** is an **area module** used in the **artist advancing process** to define responsibilities, gear requirements, and staffing needs related to lighting.
 
 It ensures that both the house and the artist are aligned on who is supplying what—and who’s covering the cost—by using the **Production Advance Response** model for each element.
 
@@ -14,7 +12,7 @@ This module helps avoid confusion during load-in and showtime, and supports cent
 
 ---
 
-### 📋 Fields in the Lighting Module
+## Fields
 
 | Field                 | Description                                                                                                                                                         | Type                                     |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -24,21 +22,11 @@ This module helps avoid confusion during load-in and showtime, and supports cent
 | **Spotlights**        | Specifies whether followspots are needed and who is responsible for them (both provision and payment). <br> Supports **line items**.                                | Production Advance Response + Line Items |
 | **Notes**             | A freeform field for adding additional context, preferences, or unique requirements (e.g., dimmer locations, timecode, power needs).                                | Free Text                                |
 
-> 🧩 _Line item fields are included for Lighting Console, Floor Package, and Spotlights. These items follow the [Resource Approval Process](#) to manage procurement and cost alignment._
+> 💡 _Line item fields are included for Lighting Console, Floor Package, and Spotlights. These items follow the [Resource Approval Process](#) to manage procurement and cost alignment._
 
 ---
 
-### 🔄 Example Production Advance Response Breakdown
-
-| Element          | Provider | Payer  |
-| ---------------- | -------- | ------ |
-| Lighting Console | Artist   | Artist |
-| Floor Package    | House    | Artist |
-| Spotlights       | House    | House  |
-
----
-
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **Custom Lighting Types**: Define optional fields depending on your site or production needs.
 - **Item Libraries** _(optional future feature)_: Pull from standardized gear catalogs for faster line item entry.
@@ -46,7 +34,7 @@ This module helps avoid confusion during load-in and showtime, and supports cent
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - An artist brings their own lighting console but needs the house to supply spotlights and a riser package.
 - A festival offers standard rigging but requires advance submission for any floor lighting needs.

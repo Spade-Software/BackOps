@@ -1,5 +1,5 @@
 ---
-title: 👥 Overview
+title: Overview
 description: high level overview of collaborators functionality
 lastUpdated: 2025-06-04
 sidebar:
@@ -8,7 +8,7 @@ sidebar:
 
 **Collaborators** are how BackOps represents the companies and people working together to make your event happen. Whether it’s a vendor, artist team, crew lead, or production company, each collaborator serves as a container for the individuals and actions associated with that group.
 
-### 🧭 What is a Collaborator?
+## What is a Collaborator?
 
 At a high level, a **Collaborator** represents an external entity participating in your event. This could be:
 
@@ -19,7 +19,7 @@ At a high level, a **Collaborator** represents an external entity participating 
 
 Each **User** in BackOps is tied to a Collaborator. This means permissions, access, and requests are scoped based on their role within that specific organization.
 
-### 🔗 Example
+## Example
 
 At a music festival:
 
@@ -32,7 +32,7 @@ Each of these collaborators can have one or more users working within BackOps on
 
 ---
 
-## 🧭 Collaborator Interface
+## Collaborator Interface
 
 When you select a collaborator from the left hand navigation in BackOps, you’ll land on their **collaborator dashbaord**, with tabs across the top for several key sections:
 
@@ -42,24 +42,26 @@ When you select a collaborator from the left hand navigation in BackOps, you’l
 - **Contacts** – Shows contact info for key members of the collaborators team
 - **Settings** – Manage user roles, access, and collaborator-specific preferences
 
-# 🗂️ Collaborator Management Interface
+---
+
+## Collaborator Management Interface
 
 Managing collaborators across your event is simple with the **Collaborator Management Interface**, accessible via the main left-hand navigation.
 
-## 📋 Viewing and Navigating Collaborators
+### Viewing and Navigating Collaborators
 
 - In the **left-side navigation bar**, under the **Collaborators** section, click **Manage Collaborators**.
 - You’ll land on a **table view** showing all collaborators currently added to the event.
 - Each row displays high-level collaborator info for quick reference.
 - **Clicking on any collaborator** will instantly open that collaborator’s profile—taking you to their **Dashboard** and full set of tools (Advancing, Schedule, Contacts, and Settings).
 
-## ➕ Adding a Collaborator
+### Adding a Collaborator
 
 - In the **top right corner**, click **Add Collaborator**.
 - Enter the name of the collaborator (e.g., “Lighting Vendor” or “Stage A Artist”).
 - Once created, the new collaborator is immediately added to the event and available for configuration.
 
-## 🔍 Searching Collaborators
+### Searching Collaborators
 
 - Use the **search bar** in the top right of the interface to quickly find a collaborator by name.
 - Especially useful for large events with dozens (or hundreds) of collaborators.

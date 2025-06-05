@@ -1,9 +1,9 @@
 ---
-title: 🛒 Procurement
+title: Procurement
 description: high level overview of collaborators page
 lastUpdated: 2025-06-04
 sidebar:
-  label: 🛒 Overview
+  label: Overview
   order: 2
 ---
 
@@ -11,7 +11,7 @@ sidebar:
 
 ---
 
-### 🔁 Procurement Flow Overview
+## Procurement flow
 
 1. **Resource Approval**
 
@@ -33,7 +33,7 @@ sidebar:
 
 ---
 
-### 🧠 Why Translation Matters
+### What is translation?
 
 There is rarely a 1:1 match between requests and what’s procured.
 
@@ -49,7 +49,7 @@ The translation step helps:
 
 ---
 
-### 🖥 Procurement Interface
+## Procurement interface
 
 The Procurement section has **three main views**:
 
@@ -63,7 +63,7 @@ Each view supports a step in the procurement workflow—from initial intake to v
 
 ---
 
-### 🚀 Summary
+## Summary
 
 Procurement in BackOps closes the loop between planning and execution:
 

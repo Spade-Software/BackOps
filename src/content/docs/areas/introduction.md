@@ -1,5 +1,5 @@
 ---
-title: 📍 Overview
+title: Overview
 description: high level overview of collaborators page
 lastUpdated: 2025-06-04
 sidebar:
@@ -10,11 +10,11 @@ sidebar:
 
 ---
 
-### 🧭 What Are Areas?
+## Area examples
 
-Areas are customizable and reflect the actual layout of your event. Examples include:
+Areas are customizable and reflect the actual layout of your event. Here's what they could look like:
 
-- **Festivals**:
+- **For a festival**:
 
   - Stage 1, Stage 2
   - Artist Compound
@@ -23,7 +23,7 @@ Areas are customizable and reflect the actual layout of your event. Examples inc
   - Staff Training Zone
   - Catering Tent
 
-- **Corporate Events**:
+- **For a corporate event**:
 
   - Main Session Hall
   - Breakout Room A/B/C
@@ -35,7 +35,7 @@ By tying modules and schedules to areas, BackOps ensures everything is **context
 
 ---
 
-### 🧩 Functional Highlights
+## Area Interface
 
 When you select an area from the **left-hand navigation**, you’ll be taken to that area’s **Dashboard**, which includes the following tabs:
 

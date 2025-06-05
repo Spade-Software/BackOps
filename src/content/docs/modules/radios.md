@@ -1,16 +1,14 @@
 ---
-title: 📡 Radio
+title: Radio
 description: Talks through the Carts Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 4
 ---
 
 The **Radio module** is a **global module** used to manage communication equipment requests across your event. Radios are often centrally provided by the production team to ensure seamless, unified communication among staff, vendors, and crew.
 
 ---
 
-### 🧭 Purpose
+## Purpose
 
 Radios are a mission-critical tool for real-time coordination on site. The Radio module enables collaborators to:
 
@@ -22,7 +20,7 @@ By centralizing these requests, event organizers avoid the chaos of unmanaged, m
 
 ---
 
-### 📋 Submitting a Radio Request
+## Fields
 
 Each request includes the following fields:
 
@@ -34,11 +32,11 @@ Each request includes the following fields:
 | **Pickup Date**           | When the radios are needed to be picked up on site                                                                                                                           |
 | **Return Date**           | When the radios are expected to be returned or decommissioned                                                                                                                |
 
-> 🧩 _Radio types and accessory packages are fully configurable per event by the administrator._
+> 💡 _Radio types and accessory packages are fully configurable per event by the administrator._
 
 ---
 
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **Radio & Accessory Types**: Build out custom radio kits or communication gear packages for your team.
 - **Access Controls**: Limit module visibility to collaborators with approved communication needs.
@@ -46,7 +44,7 @@ Each request includes the following fields:
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - Enabling production crews, security, medical, or operations staff to coordinate in real-time
 - Providing radios to external vendors for situational awareness

@@ -1,5 +1,5 @@
 ---
-title: 📅 Schedule
+title: Schedule
 description: In in depth look at the collaborator schedule page
 lastUpdated: 2025-06-04
 sidebar:
@@ -8,9 +8,15 @@ sidebar:
 
 The **Schedule tab** in a collaborator’s profile provides a filtered view of the event calendar—showing **only the activities directly associated with that specific collaborator**. It’s a streamlined, focused tool for tracking and managing all time-based commitments related to that team or individual.
 
+Use the schedule for
+- Scheduling and tracking advance calls
+- Assigning load-in/load-out times
+- Logging site arrival and departure windows
+- Adding internal meetings, rehearsals, or crew call times specific to one group
+
 ---
 
-### 🧭 How It Works
+## How It Works
 
 The Collaborator Schedule functions similarly to the **Master Event Schedule**, but with a narrower scope:
 
@@ -20,7 +26,7 @@ The Collaborator Schedule functions similarly to the **Master Event Schedule**, 
 
 ---
 
-### 📆 Calendar Views
+## Calendar Views
 
 Users can toggle between different timeframes for flexible planning:
 
@@ -29,14 +35,3 @@ Users can toggle between different timeframes for flexible planning:
 - **Month View**
 
 Each view is scrollable, so you can easily browse past or upcoming activity related to this collaborator.
-
----
-
-### ➕ Use Cases
-
-This tab is ideal for:
-
-- Scheduling and tracking advance calls
-- Assigning load-in/load-out times
-- Logging site arrival and departure windows
-- Adding internal meetings, rehearsals, or crew call times specific to one group

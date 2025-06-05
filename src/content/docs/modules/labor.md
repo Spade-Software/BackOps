@@ -1,16 +1,14 @@
 ---
-title: 👷 Labor
+title: Labor
 description: Talks through the Labor Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 8
 ---
 
 The **Labor module** is a **global module** used to manage on-site labor requests from collaborators. Whether for load-in, setup, operations, or teardown, this module helps event organizers coordinate staffing needs across departments—ensuring the right people are in the right place at the right time.
 
 ---
 
-### 🧭 Purpose
+## Purpose
 
 Most events provide labor centrally—this module is how collaborators submit **labor calls** to request that support.
 
@@ -22,7 +20,7 @@ The module allows collaborators to:
 
 ---
 
-### 📋 Submitting a Labor Request
+## Fields
 
 Labor requests are submitted as **labor calls**, each representing a single work block.
 
@@ -35,11 +33,11 @@ Each labor call includes:
 | **End Time**                 | When the requested labor is no longer needed                                                                                                                                        |
 | **Labor Roles & Quantities** | A breakdown of how many people are needed by role. Each entry includes: <br> - **Role Type** (e.g., Laborer, Rigger, Operator, Lead, Truck Loader) <br> - **Quantity** of each type |
 
-> 🔧 _Labor types are fully configurable by the event admin based on the event's unique needs and terminology._
+> 💡 _Labor types are fully configurable by the event admin based on the event's unique needs and terminology._
 
 ---
 
-### 🧱 Example Scenarios
+## Example Scenarios
 
 | Scenario            | Description                                                                                                                                                                                        |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -48,7 +46,7 @@ Each labor call includes:
 
 ---
 
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **Labor Types**: Create custom labor roles that match your site team structure and crew needs.
 - **Role Visibility**: Show or restrict certain roles based on collaborator type.
@@ -56,12 +54,8 @@ Each labor call includes:
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - Coordinating central labor for production and vendor teams
 - Allowing vendors to submit precise needs without direct ops involvement
 - Giving labor managers full visibility to organize shifts and build call sheets
-
----
-
-The Labor module acts as the **operational bridge between planners and boots-on-the-ground support**. It turns scattered labor requests into a unified staffing plan—keeping your show on schedule and well-resourced.

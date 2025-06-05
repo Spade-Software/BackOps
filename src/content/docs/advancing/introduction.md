@@ -1,5 +1,5 @@
 ---
-title: 🚀 Overview
+title: Overview
 description: Overview of Advancing
 lastUpdated: 2025-06-04
 sidebar:
@@ -10,7 +10,7 @@ sidebar:
 
 ---
 
-### 📌 What Is Advancing?
+## What is advancing
 
 In live production, **advancing** refers to the process of collecting detailed logistical and technical information from collaborators before an event begins.
 
@@ -22,7 +22,7 @@ In BackOps, advancing is:
 
 ---
 
-### 🧩 How It Works
+## How it works
 
 Each **Module** (e.g., Lighting, Labor, Credentials) provides a structured interface for collaborators to input:
 
@@ -37,7 +37,7 @@ The system automatically tracks progress and flags **required modules**, helping
 
 ---
 
-### ✅ Why It Matters
+## Why it matters
 
 BackOps turns chaotic back-and-forth emails and spreadsheets into a **centralized, trackable, and streamlined process**.
 By the time you hit show day, everyone knows what’s expected—because it’s all been advanced.

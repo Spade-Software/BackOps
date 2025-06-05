@@ -1,54 +1,49 @@
 ---
-title: 🗓️ Overview
-description: An in depth look at the scheudle fuinctions in BackOps.
+title: Overview
+description: An in depth look at the schedule in BackOps.
 lastUpdated: 2025-06-04
 sidebar:
   order: 1
 ---
 
-## 🗓️ Schedule Overview
-
 **Schedule** is the backbone of event timing in BackOps. It allows you to plan, view, and manage **Activities** (our term for individual scheduled items) across all parts of your production.
 
 ---
 
-### 🔗 Where Schedules Appear
+## Where schedules appear
 
 Schedules are integrated across the platform and can be linked to:
 
-- **📍 Areas** — e.g., Stage 1, VIP Tent, Ops HQ
+- **Areas** — e.g., Stage 1, VIP Tent, Ops HQ
   → View and manage activities happening in specific zones.
 
-- **👥 Collaborators** — e.g., Artists, Vendors, Production Teams
+- **Collaborators** — e.g., Artists, Vendors, Production Teams
   → See activities relevant only to that collaborator (e.g., load-ins, advance calls).
 
-- **🎟️ Master Event**
-  → The global view showing all activities across your event footprint.
+- **Event** — The global view showing all activities across your event footprint.
 
 All schedule views follow the same layout and share a consistent user experience.
 
 ---
 
-### 🧰 What You Can Do
+## What you can do
 
-- **Filter by Timeframe**
-  Switch between **Day**, **Week**, or **Month** views to control the calendar zoom level.
+- **Filter by Timeframe**: Switch between **Day**, **Week**, or **Month** views to control the calendar zoom level.
 
 - **Add Activities**
 
   - **Click + Add** (top-right corner) to create a new item manually
   - **Click & Drag** on the calendar to block out time and pre-fill start/end times
 
-- **Color Coding**
-  Activities are color-coded based on what they’re attached to:
+- **Color Coding**: Activities are color-coded based on what they’re attached to:
 
   - Area-based
   - Collaborator-based
-  - Master Event
+  - Event
 
 ---
 
-### ✏️ Editing Activities
+## Editing activities
 
 Click on any activity to open its options:
 

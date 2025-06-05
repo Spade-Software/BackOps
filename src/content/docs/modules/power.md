@@ -1,9 +1,7 @@
 ---
-title: ⚡ Power
+title: Power
 description: Talks through the Power Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 4
 ---
 
 The **Power module** is an **area-based module** used to request power drops for specific locations within an event area. Unlike advancing modules, this module is focused on **precise infrastructure needs** and is designed to facilitate routing, distro planning, and on-site power delivery.
@@ -12,7 +10,7 @@ Each request represents a **single power drop**, including details like connecto
 
 ---
 
-### 📋 Fields in the Power Module
+## Fields
 
 | Field              | Description                                                                                                                                                                                                                |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,11 +21,11 @@ Each request represents a **single power drop**, including details like connecto
 | **Purpose**        | A short description of what this power drop is for (e.g., “Stage 1 Lighting”, “Food Vendor Freezer”, “Exit Sign Emergency Backup”).                                                                                        |
 | **Notes**          | Optional field for additional context, such as preferred routing, time of day needed, or cable cover requirements.                                                                                                         |
 
-> 🔌 _Each power request is routed through the [Resource Approval Process](#), enabling electrical and production leads to validate, adjust, and approve based on available inventory and layout._
+> 💡 _Each power request is routed through the [Resource Approval Process](#), enabling electrical and production leads to validate, adjust, and approve based on available inventory and layout._
 
 ---
 
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **Connector Type List**: Fully customizable to include standard or site-specific plug types.
 - **Approval Workflow Integration**: Route requests to power leads or electricians automatically.
@@ -35,7 +33,7 @@ Each request represents a **single power drop**, including details like connecto
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - A stage vendor requests a 300A 208V feeder drop for a lighting distro
 - A security team requests a 20A Edison drop for lights at a checkpoint

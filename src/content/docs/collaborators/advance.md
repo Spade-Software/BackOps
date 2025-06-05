@@ -1,5 +1,5 @@
 ---
-title: 📋 Advancing
+title: Advancing
 description: In depth walk through of Collaborator Advancing
 lastUpdated: 2025-06-04
 sidebar:
@@ -10,7 +10,7 @@ The **Advancing tab** is where collaborators submit key details for their assign
 
 ---
 
-### 🧭 Sidebar Navigation (Left Panel)
+## Sidebar Navigation
 
 The left-hand sidebar provides a **collapsible, categorized list** of all modules assigned to the collaborator:
 
@@ -24,7 +24,7 @@ This makes it easy for collaborators to navigate through their responsibilities 
 
 ---
 
-### 📝 Module Access and Entry
+## Module Access
 
 Clicking on any module in the sidebar opens that module’s **Advancing Form**, where collaborators can:
 
@@ -38,7 +38,7 @@ Each module is tailored to its function, and users will only see the fields rele
 
 ---
 
-### 🗒️ Notes Section
+## Notes
 
 Many modules include a **Notes field** on the left-hand side of the screen. This is used for:
 

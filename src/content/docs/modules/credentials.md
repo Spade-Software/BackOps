@@ -1,9 +1,7 @@
 ---
-title: 🎟️ Credentials
+title: Credentials
 description: Talks through the Credentials Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 5
 ---
 
 The **Credentials module** is a **global module** used to manage access passes, wristbands, badges, and other credentials for collaborators entering your event site.
@@ -12,7 +10,7 @@ It’s designed to ensure that every person on-site is properly identified, appr
 
 ---
 
-### 🧭 Purpose
+## Purpose
 
 From crew wristbands to artist laminates, credentials control who gets where, and when. The Credentials module enables collaborators to:
 
@@ -24,7 +22,7 @@ This module streamlines access management and helps prevent unauthorized site ac
 
 ---
 
-### 📋 Submitting a Credential Request
+## Fields
 
 Each credential request includes the following fields:
 
@@ -38,21 +36,16 @@ Each credential request includes the following fields:
 
 ---
 
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **Credential Types**: Create and manage all access categories based on site security and operational zones.
 - **Pickup Verification**: Use name and contact information for identity verification and discrepancy resolution.
-- **Audit Logging** _(optional future feature)_: Track who requested, picked up, and used each credential.
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - Giving production vendors bulk wristbands for their crew
 - Managing artist credentials across different tiers of access
 - Ensuring security staff can verify pickup representatives
 - Centralizing contact info to resolve credentialing issues quickly
-
----
-
-This is a strong module for access control, and one that will likely grow in complexity as BackOps expands. Ready for the next module whenever you are!

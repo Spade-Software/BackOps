@@ -1,5 +1,5 @@
 ---
-title: 📃 Procurement List
+title: Procurement List
 description: Deep dive into the procurement requests page
 lastUpdated: 2025-06-04
 sidebar:
@@ -10,7 +10,7 @@ Once requests are approved, the next step is to translate them into actual **pro
 
 ---
 
-### 🧭 Navigating the Procurement List
+## Navigating the Procurement List
 
 At the top of the page, you’ll see **tabs for each module** (e.g., Lighting, Labor, Power). Each tab shows:
 
@@ -21,7 +21,7 @@ This layout enables **resource managers** to focus on their specific domain and 
 
 ---
 
-### 🧱 Building Procurements
+## Building procurements
 
 You have two options:
 
@@ -38,7 +38,7 @@ You have two options:
 
 ---
 
-### 🔁 Assigning Requests to Procurements
+## Assigning requests to procurements
 
 Use **drag-and-drop** to assign approved requests (left) to procurements (right). This action signals:
 
@@ -48,7 +48,7 @@ You can assign **multiple requests** to a single procurement—useful for shared
 
 ---
 
-### 🧠 Real-World Example: Forklift Sharing
+### Real-World Example: Forklift Sharing
 
 - Five artists request a forklift.
 - You create a procurement named **Stage 1 Forklift**, specifying a **15k forklift, Qty: 1**.
@@ -57,7 +57,7 @@ You can assign **multiple requests** to a single procurement—useful for shared
 
 ---
 
-### 🛠️ Managing Procurements
+## Managing procurements
 
 - Click any procurement to:
 
@@ -69,6 +69,6 @@ This flexibility supports real-world decision-making as needs evolve.
 
 ---
 
-### ✅ Key Takeaway
+## Summary
 
 The **Procurement List** bridges the gap between collaborator needs and actual orders. It’s where **strategy meets execution**, giving you total control over how event requests turn into real-world resources.

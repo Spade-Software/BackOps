@@ -1,5 +1,5 @@
 ---
-title: 📊 Dashboard
+title: Dashboard
 description: An in depth look at the collaborator dashboard
 lastUpdated: 2025-06-04
 sidebar:
@@ -10,7 +10,7 @@ The **Collaborator Dashboard** is the central hub for monitoring each collaborat
 
 ---
 
-### 🔄 Advance Progress Overview (Top Left)
+## Advance Progress Overview
 
 At the top left of the dashboard is the **Advance Progress** section, which gives a visual breakdown of the collaborator’s completion status across all assigned modules.
 
@@ -20,13 +20,13 @@ Here’s how it works:
 - **Area Boxes**: Each additional box corresponds to a specific area (e.g., Main Stage, VIP Lounge) where the collaborator has assigned modules.
 - **Modules Inside Each Box**: Each visible icon or block represents one module.
 
-#### 🟊 Required Modules
+### Required Modules
 
 - Modules marked with a **star (★)** are **required**.
 - These modules count toward the collaborator’s overall **advance completion percentage**.
 - If a required module is incomplete, it will negatively impact the collaborator’s progress score.
 
-#### 📈 Progress Bars
+### Progress Bars
 
 Each module has a built-in progress bar to show how much of that module has been filled out:
 
@@ -38,7 +38,7 @@ This makes it easy to spot what’s missing and where follow-up may be needed.
 
 ---
 
-### 👤 Contacts Box (Below Advance Progress)
+## Contacts
 
 Beneath the advance progress section is the **Contacts Box**, a quick-reference panel listing key users within that collaborator group.
 
@@ -52,7 +52,7 @@ This helps event teams quickly identify and communicate with the right person.
 
 ---
 
-### 📅 Collaborator Schedule (Right Sidebar)
+## Collaborator Schedule
 
 Along the right side of the dashboard is the **Collaborator Schedule View**, showing any **scheduled activities, assignments, or time blocks** relevant to that collaborator.
 

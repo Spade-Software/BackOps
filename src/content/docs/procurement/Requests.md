@@ -1,5 +1,5 @@
 ---
-title: 📥  Requests
+title: Requests
 description: Deep dive into the procurement requests page
 lastUpdated: 2025-06-04
 sidebar:
@@ -10,7 +10,7 @@ The **Requests** tab is the starting point for the procurement workflow in BackO
 
 ---
 
-### 🧭 Navigating the Requests Tab
+## Navigating the Requests Tab
 
 When you visit the Procurement page, you’ll land on the **Requests** tab by default.
 
@@ -19,7 +19,7 @@ When you visit the Procurement page, you’ll land on the **Requests** tab by de
 
 ---
 
-### 🗂️ Filter & Manage Requests
+## Filter & manage requests
 
 Use filters to quickly locate requests by status:
 
@@ -33,7 +33,7 @@ You can also **customize table columns** to show only the data most relevant to 
 
 ---
 
-### ✅ Approving Requests Inline
+## Approving requests
 
 Each request row shows the current status of:
 
@@ -48,12 +48,12 @@ If action is required, buttons are available directly within the row to:
 
 ---
 
-### 🔁 Repeated Across Modules
+## Module specific
 
 This streamlined interface is replicated for every module tab, giving you a **module-specific view of procurement requests** while maintaining consistent actions and approval flows.
 
 ---
 
-### 🚀 Key Takeaway
+## Summary
 
 The Requests tab is your **control center** for all incoming procurement needs—making it easy to track, manage, and take action on items before they move into procurement lists or orders.

@@ -1,9 +1,7 @@
 ---
-title: 🧰 Gear
+title: Gear
 description: Talks through the Gear Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 9
 ---
 
 The **Gear module** is an **area-based catch-all module** used to request and track **miscellaneous gear** that doesn’t fall neatly into categories like audio, video, or staging.
@@ -12,7 +10,7 @@ It’s ideal for capturing those “last 10%” requests—things like screens, 
 
 ---
 
-### 🧭 Purpose
+## Purpose
 
 Not every gear need fits neatly into a standard module. The Gear module allows collaborators to:
 
@@ -22,7 +20,7 @@ Not every gear need fits neatly into a standard module. The Gear module allows c
 
 ---
 
-### 📋 Fields in the Gear Module
+## Fields
 
 Each gear request is submitted as a **Gear Line Item**, with the following fields:
 
@@ -36,7 +34,7 @@ Each gear request is submitted as a **Gear Line Item**, with the following field
 
 ---
 
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **Flexible Access**: Enable this module in **any area** where gear might be needed—from crew tents to breakouts to backstage zones.
 - **Approval Routing**: Route gear requests to staging, tech, or warehouse teams as needed.
@@ -44,7 +42,7 @@ Each gear request is submitted as a **Gear Line Item**, with the following field
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - A **staff training area** needs a screen, truss mount, and HDMI cable for presentation playback
 - A **VIP entrance tent** needs signage stands, lighting fixtures, and extension cords

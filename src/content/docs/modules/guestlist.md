@@ -1,16 +1,14 @@
 ---
-title: 🎫 Guest List
+title: Guest List
 description: Talks through the Carts Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 7
 ---
 
-The **GuestList module** is a **global module** used to manage artist guest entries for events. Unlike staff or crew credentials, guest list entries are used to grant **patron-level access** to individuals attending on behalf of a performer or collaborator.
+The **Guest List module** is a **global module** used to manage artist guest entries for events. Unlike credentials, guest list entries are used to grant **patron-level access** to individuals attending on behalf of a performer or collaborator.
 
 ---
 
-### 🧭 Purpose
+## Purpose
 
 Artists, managers, and other collaborators are often allocated a set number of guest passes in their contracts or riders. The GuestList module provides a simple way to:
 
@@ -18,11 +16,11 @@ Artists, managers, and other collaborators are often allocated a set number of g
 - Ensure access is granted at the box office
 - Avoid day-of confusion or miscommunications
 
-> 🎟️ _This module is distinct from the Credentials module, which is used for staff/crew access. GuestList is strictly for attendees arriving as patrons._
+> 💡 _This module is distinct from the Credentials module, which is used for staff/crew access. GuestList is strictly for attendees arriving as patrons._
 
 ---
 
-### 📋 Submitting a Guest Entry
+## Fields
 
 Each guest entry includes the following fields:
 
@@ -37,7 +35,7 @@ Each guest entry includes the following fields:
 
 ---
 
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **GuestList Limits**: Event organizers can set per-collaborator or per-artist limits on total guest passes.
 - **Visibility Controls**: Limit access to this module to only artist teams or specific vendors as appropriate.
@@ -45,7 +43,7 @@ Each guest entry includes the following fields:
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - An artist submits names for their comped guest list
 - A tour manager registers family attending a specific show

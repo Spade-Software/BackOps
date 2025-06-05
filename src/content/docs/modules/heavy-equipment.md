@@ -1,16 +1,14 @@
 ---
-title: 🚜 Heavy Equipment
+title: Heavy Equipment
 description: Talks through the Carts Module
 lastUpdated: 2025-06-04
-sidebar:
-  order: 3
 ---
 
 The **Heavy Equipment module** is a **global module** used to manage requests for heavy machinery on-site. From forklifts to boom lifts, this tool helps organizers plan equipment needs efficiently—reducing cost, overlap, and logistical friction.
 
 ---
 
-### 🧭 Purpose
+## Purpose
 
 Heavy equipment is critical for setup, teardown, and ongoing site operations. This module enables collaborators to:
 
@@ -20,7 +18,7 @@ Heavy equipment is critical for setup, teardown, and ongoing site operations. Th
 
 ---
 
-### 📋 Submitting a Heavy Equipment Request
+## Fields
 
 When collaborators submit a request, they’ll provide:
 
@@ -35,17 +33,7 @@ When collaborators submit a request, they’ll provide:
 
 ---
 
-### 🔄 Why Scheduling Matters
-
-Unlike other modules, **timing is especially important** with heavy equipment. Because many teams might only need gear for short windows (e.g., unloading a truck), this module helps planners:
-
-- Spot overlaps and opportunities to **share resources**
-- Reduce unnecessary rentals
-- Avoid on-site congestion or scheduling conflicts
-
----
-
-### 🛠️ Configuration Options (for Admins)
+## Configuration (Admins)
 
 - **Equipment Types**: Create a list of all available heavy equipment types for your site.
 - **Availability Logic** _(optional future feature)_: Use pickup/return data to forecast availability or conflicts.
@@ -53,7 +41,7 @@ Unlike other modules, **timing is especially important** with heavy equipment. B
 
 ---
 
-### ✅ Use Cases
+## Use Cases
 
 - Managing forklift access across production, audio, and vendors
 - Coordinating equipment usage by time slot to reduce rental costs
