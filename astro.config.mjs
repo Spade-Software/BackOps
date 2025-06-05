@@ -18,6 +18,10 @@ export default defineConfig({
           autogenerate: { directory: 'start-here' },
         },
         {
+          label: 'Events',
+          autogenerate: { directory: 'events' },
+        },
+        {
           label: 'Collaborators',
           autogenerate: { directory: 'collaborators' },
         },
