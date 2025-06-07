@@ -9,7 +9,7 @@ export default defineConfig({
   site: 'https://docs.backopslive.com/',
   integrations: [
     starlight({
-      favicon: './src/assets/backops-icon.svg',
+      favicon: '/backops-icon.svg',
       plugins: [starlightNextjsTheme()],
       title: 'BackOps Docs',
       sidebar: [
