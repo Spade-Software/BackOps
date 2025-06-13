@@ -1,8 +1,8 @@
 // @ts-check
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
-import tailwindcss from '@tailwindcss/vite';
-import starlightNextjsTheme from 'starlight-nextjs-theme';
+import tailwindcss from '@tailwindcss/vite'
+import starlightNextjsTheme from 'starlight-nextjs-theme'
 
 // https://astro.build/config
 export default defineConfig({
@@ -45,6 +45,10 @@ export default defineConfig({
         {
           label: 'Procurement',
           autogenerate: { directory: 'procurement' },
+        },
+        {
+          label: 'Permissions',
+          autogenerate: { directory: 'permissions' },
         },
       ],
       customCss: ['./src/styles/global.css'],
