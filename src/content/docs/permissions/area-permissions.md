@@ -1,5 +1,5 @@
 ---
-title: Collaborator Permissions
+title: Area Permissions
 description: Introduction to permissions in
 lastUpdated: 2025-06-11
 sidebar:
