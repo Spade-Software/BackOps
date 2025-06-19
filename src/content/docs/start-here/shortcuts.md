@@ -37,7 +37,18 @@ When enabled, the **Create More** toggle lets you immediately open a new, blank 
 
 ---
 
-![Description of your GIF](/shortcuts.gif)
+![Create more shortcut](/shortcuts.gif)
+
+---
+
+## Global Search Shortcut
+
+BackOps includes a powerful global search component that allows users to search across all areas and collaborators on the current event. You can open this search from anywhere in the app using the following shortcut:
+
+- **Mac:** `⌘ + K`
+- **Windows/Linux:** `Ctrl + K`
+
+This brings up the search overlay, allowing quick navigation and access to relevant data without clicking through menus.
 
 ---
 
