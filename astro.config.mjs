@@ -47,6 +47,10 @@ export default defineConfig({
           autogenerate: { directory: 'procurement' },
         },
         {
+          label: 'Permissions',
+          autogenerate: { directory: 'permissions' },
+        },
+        {
           label: 'Changelog',
           autogenerate: { directory: 'changelog' },
         },
