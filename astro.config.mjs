@@ -50,6 +50,10 @@ export default defineConfig({
           label: 'Permissions',
           autogenerate: { directory: 'permissions' },
         },
+        {
+          label: 'Changelog',
+          autogenerate: { directory: 'changelog' },
+        },
       ],
       customCss: ['./src/styles/global.css'],
     }),
