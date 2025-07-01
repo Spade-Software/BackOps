@@ -1,7 +1,7 @@
 ---
 title: Beta-0.3.0
 description: Release Notes for Beta-0.3.0
-lastUpdated: 2025-18-06
+lastUpdated: 2025-2-07
 sidebar:
   order: 4
   badge:
