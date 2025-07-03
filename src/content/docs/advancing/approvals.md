@@ -4,7 +4,6 @@ description: Approvals breakdown
 lastUpdated: 2025-06-04
 sidebar:
   order: 3
-next: Procurements
 ---
 
 As collaborators submit information during advancing, many of their inputs trigger **approval workflows**—ensuring the right people review, approve, or coordinate key details and resource needs.

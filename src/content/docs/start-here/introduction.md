@@ -20,7 +20,8 @@ We believe it’s time for something different.
 
 BackOps is built by industry insiders and software experts with one mission in mind: **To give live event teams the tools they actually need to plan, execute, and deliver exceptional experiences.**
 
-Here’s what you’ll find:
+Here’s what you’ll find in the docs:
+
 - Clear explanations of core concepts like events, areas, and collaborators
 - Step-by-step guides for using each module
 - Best practices for streamlined collaboration
