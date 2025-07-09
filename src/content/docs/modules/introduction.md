@@ -124,10 +124,6 @@ When a collaborator uses an Area Module, they’ll be prompted to provide inform
 
 ---
 
-Perfect—this concept of **production advance responses** is a great pattern to establish for your area modules. It sets up consistency and helps unify how advancing is handled across disciplines like Audio, Video, Lighting, etc. Below is a documentation-ready introduction to both the **Area Modules** and the **Audio module**, including the shared Production Advance Response pattern that you’re establishing.
-
----
-
 ### Production Advance Responses (Shared Concept)
 
 Several area modules—especially those used during artist advancing—use a standardized structure called a **Production Advance Response**.
