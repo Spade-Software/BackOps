@@ -35,6 +35,10 @@ export default defineConfig({
           autogenerate: { directory: 'modules' },
         },
         {
+          label: 'File Management',
+          autogenerate: { directory: 'files' },
+        },
+        {
           label: 'Schedule',
           autogenerate: { directory: 'schedule' },
         },
