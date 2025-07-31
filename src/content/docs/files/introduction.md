@@ -1,73 +1,64 @@
 ---
 title: Overview
-description: Overview of File Management
+description: Why BackOps rethought file management for the live events industry
 lastUpdated: 2025-07-18
 sidebar:
   order: 1
 ---
 
-BackOps takes a unique approach to **file management**—one tailored to the realities of production workflows while maintaining the familiarity of tools like Dropbox and Google Drive. Whether you’re sharing rigging plots, collecting media files, or reviewing updated stage drafts, our Files system is designed to support the way live event teams actually work.
+## Why We Rethought File Management
 
-This is more than a drive folder. BackOps introduces production-specific concepts like **formats**, **reviewers**, and **versioned approvals**, so your team can move fast without losing track of critical file changes.
+File management is at the heart of live event production. From drafting rigging plots to distributing schedules and sharing technical documents, files are one of the primary ways production teams communicate and collaborate.
 
----
+When we set out to build BackOps, we knew we wanted the platform to be a **one-stop shop** for production workflows—and that meant bringing file management into the platform. But simply replicating Dropbox or Google Drive wasn’t enough. We wanted to solve the very real problems production teams face when managing files.
 
-## Files
+## The Problems with Traditional File Management
 
-The top-level object in our file system. A File might represent a rigging plot, a credential layout, or an asset folder. Files contain **versions**, and each version contains **formats**—helping you keep complex documentation organized under a single umbrella.
+Through years of working in the industry, we kept running into the same pain points:
 
----
+### 1. **Formats Sprawl**
 
-## Versions
+A single file often exists in multiple formats:
 
-Each time you upload an updated draft or revision, you create a **new version**. Versions track history across the life of a file, helping ensure everyone is aligned on what’s current.
+- A **Vectorworks (.vwx)** file for drafting
+- A **PDF** export for quick review
+- A **DWG** or **MVR** for other teams
+- Sometimes even images or additional exports
 
----
+In traditional file systems, these live as separate files scattered across folders. You end up creating subfolder after subfolder just to keep them grouped, and even then it’s easy for things to get lost or disorganized.
 
-## Formats
+### 2. **Version Chaos**
 
-Formats are file-type variations stored within a version. For example, a **Rigging Plot** might have:
+Files change—a lot. Whether it’s a rigging plot, a stage layout, or a vendor schedule, you’ll see filenames like:
 
-- A `.vwx` Vectorworks master file
-- A `.pdf` export for on-site reference
-- A `.jpg` version for quick previews
-- An `.mvr` file for lighting teams
+```
 
-Rather than storing these as separate files, BackOps groups them under one versioned file record—keeping everything tidy and contextually linked.
+Stage_Rigging_v1.pdf
+Stage_Rigging_v2.pdf
+Stage_Rigging_FINAL.pdf
+Stage_Rigging_FINAL_FINAL.pdf
 
----
+```
 
-## Reviewers & Approval
+Traditional tools push teams toward creating archives or manual version folders, but all it takes is one misplaced upload and suddenly you don’t know what’s actually the latest version.
 
-Each file version supports a **review and approval** process. You can:
+### 3. **Fragmented Workflows**
 
-- Assign **required reviewers**
-- Collect **feedback and approvals**
-- View **comment threads per version**
-- Reset reviews automatically when a new version is uploaded
+Even with well-organized cloud storage, production teams still bounce between multiple tools to manage files, approvals, and communication. Every time you leave your platform to hunt for a file or request feedback in email threads, it slows the production workflow down.
 
-This enables a clear sign-off workflow and helps you maintain version control during iterative design or production planning.
+## Our Approach
 
----
+BackOps was built to fix this. By integrating file management directly into the platform, we eliminated the need to jump between tools—and we took the opportunity to solve the core problems above.
 
-## Sharing & Access Control
+Here’s how we approached it:
 
-Files and folders can be shared through permissioned **share links**, just like in Dropbox. You can:
+- **Files with Versions**: Instead of manually creating archive folders, BackOps treats every file as a single object that can evolve over time. Upload a new version, and it’s automatically tracked.
+- **Formats in One Place**: Keep every format of a file together. A single rigging drawing can contain its .vwx file, its PDF export, and its MVR format, all under one file record.
+- **Built-in Reviews & Approvals**: Assign reviewers, collect approvals, and add comments directly in the file. No more scattered email chains.
+- **One Platform, One Workflow**: With files living in BackOps, everything stays connected to your events, areas, collaborators, and production data.
 
-- Collect files from outside contributors
-- Share view/download links publicly or privately
-- Manage user-level permissions (read, edit, download, comment)
+## The Result
 
-All powered by BackOps’ event-aware permission engine.
+With BackOps, you can manage files the way production teams actually work—without the folder sprawl, version confusion, or tool-switching headaches.
 
----
-
-# Summary
-
-The BackOps File Management system includes:
-
-- ✅ Versioning for tracking file evolution
-- ✅ Formats to group multiple exports of a single document
-- ✅ Reviewer workflows to collect approvals
-- ✅ Share links for external access
-- ✅ Permission control for visibility and security
+This isn’t just file storage. This is **production-ready file management**, purpose-built for the live events industry.
