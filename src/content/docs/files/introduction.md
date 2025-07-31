@@ -44,7 +44,7 @@ Traditional tools push teams toward creating archives or manual version folders,
 
 ### 3. **Fragmented Workflows**
 
-Even with well-organized cloud storage, production teams still bounce between multiple tools to manage files, approvals, and communication. Every time you leave your platform to hunt for a file or request feedback in email threads, it slows the production workflow down.
+Even with well-organized cloud storage, production teams still bounce between multiple tools to manage files, approvals, and communication. Every time you leave your platform to hunt for a file, request feedback in email threads, or chase down approvals across text messages and scattered conversations, it slows the production workflow down. This fragmentation creates delays, increases the risk of missed sign-offs, and makes it harder for teams to stay aligned and move projects forward efficiently.
 
 ## Our Approach
 
