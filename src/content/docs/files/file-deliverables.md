@@ -13,7 +13,7 @@ Deliverables are a special type of file in BackOps designed to help you track an
 When you click **New → Deliverable**, you’ll be able to:
 
 - **Create a file placeholder** – No versions or formats are uploaded initially.
-- **Assign it to a collaborator** – Identify who is responsible for providing the file.
+- **Assign it to a collaborator** – Identify who is responsible for providing the file(s).
 - **Set a due date** – Give the collaborator a clear deadline.
 - **Add a description** – Use this space to define requirements or acceptance criteria, so the collaborator knows exactly what’s expected.
 
