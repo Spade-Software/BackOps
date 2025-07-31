@@ -12,7 +12,7 @@ File collaboration in production isn’t just about storing documents; it’s ab
 
 ---
 
-### 1. Comments: Collaborative Feedback
+### 1. Comments
 
 Every version of a file includes a **comment thread** where collaborators can leave feedback.
 
@@ -27,9 +27,9 @@ Comments make it easy to:
 
 ---
 
-### 2. Reviews: Formal Approval
+### 2. Reviews
 
-While comments are great for open collaboration, many files require formal sign-off. This is where **reviews** come in.
+Sometimes files require formal sign-off. This is where **reviews** come in.
 
 You can add reviewers to a file version, and each reviewer is explicitly asked to approve (or request changes). Common examples include:
 
@@ -60,7 +60,7 @@ By combining **comments** and **reviews**, BackOps enables a full collaboration 
 1. A new version of the file is uploaded.
 2. Collaborators add comments with feedback or questions.
 3. Reviewers either **approve** or **request changes**.
-4. Once all approvals are collected, the version is locked in as the agreed-upon reference point.
+4. Once all approvals are collected, the version is confirmed as the agreed-upon reference point.
 
 This creates a transparent record of both discussion and approval, eliminating confusion and keeping production teams aligned.
 

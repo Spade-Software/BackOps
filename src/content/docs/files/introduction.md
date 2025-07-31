@@ -16,7 +16,7 @@ When we set out to build BackOps, we knew we wanted the platform to be a **one-s
 
 Through years of working in the industry, we kept running into the same pain points:
 
-### 1. **Formats Sprawl**
+### 1. **Multiple Formats**
 
 A single file often exists in multiple formats:
 
@@ -27,7 +27,7 @@ A single file often exists in multiple formats:
 
 In traditional file systems, these live as separate files scattered across folders. You end up creating subfolder after subfolder just to keep them grouped, and even then it’s easy for things to get lost or disorganized.
 
-### 2. **Version Chaos**
+### 2. **Version Changes**
 
 Files change—a lot. Whether it’s a rigging plot, a stage layout, or a vendor schedule, you’ll see filenames like:
 
