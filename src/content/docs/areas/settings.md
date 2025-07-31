@@ -3,7 +3,7 @@ title: Settings
 description: Area settings page
 lastUpdated: 2025-06-04
 sidebar:
-  order: 6
+  order: 5
 next: Modules
 ---
 
