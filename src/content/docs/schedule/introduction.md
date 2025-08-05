@@ -1,62 +1,38 @@
 ---
 title: Overview
 description: An in depth look at the schedule in BackOps.
-lastUpdated: 2025-06-04
+lastUpdated: 2025-08-04
 sidebar:
   order: 1
 ---
 
-**Schedule** is the backbone of event timing in BackOps. It allows you to plan, view, and manage **Activities** (our term for individual scheduled items) across all parts of your production.
+In live event production, timing is everything. Whether it’s coordinating rehearsals, loading in equipment, or managing crew calls, keeping everyone aligned on **when and where they need to be** is critical. The BackOps Scheduling module brings structure to this complexity by centralizing all time-based activities into a single, intuitive system.
 
----
+### **Multiple Schedules for Total Clarity**
 
-## Where schedules appear
+To make sure every part of your event is properly tracked, BackOps supports several types of schedules:
 
-Schedules are integrated across the platform and can be linked to:
+- **Event Schedule** – The master calendar that shows all event-wide activities.
+- **Collaborator Schedules** – Dedicated schedules for each collaborator, giving clear visibility into their specific commitments.
+- **Area Schedules** – Focused calendars for each area (e.g., stage, compound, or production zone) to avoid conflicts and streamline operations.
+- **User Schedule** – A personal view showing only the activities that you, as a user, have been invited to.
 
-- **Areas** — e.g., Stage 1, VIP Tent, Ops HQ
-  → View and manage activities happening in specific zones.
+This layered approach ensures that you can see everything at a high level—or drill down to the details that matter most.
 
-- **Collaborators** — e.g., Artists, Vendors, Production Teams
-  → See activities relevant only to that collaborator (e.g., load-ins, advance calls).
+### **Mix-and-Match Flexibility**
 
-- **Event** — The global view showing all activities across your event footprint.
+Scheduling in BackOps is designed to be **highly flexible**. You can combine or filter schedules to view only what’s relevant to you. For example, a stage manager can view the event schedule alongside the area schedule for their stage, while a crew member might focus solely on their personal schedule. This mix-and-match capability makes it easy to stay organized without getting overwhelmed by unnecessary details.
 
-All schedule views follow the same layout and share a consistent user experience.
+### **One Activity, Many Calendars**
 
----
+Instead of creating the same event in multiple places, BackOps lets you create **a single activity** and associate it with the event, specific collaborators, areas, and even individual users. This ensures everyone sees the same information, in the right place, without duplication.
 
-## What you can do
+### **The Result: Organized, Conflict-Free Scheduling**
 
-- **Filter by Timeframe**: Switch between **Day**, **Week**, or **Month** views to control the calendar zoom level.
+With filtering, association, and consolidated activity creation, the Scheduling module ensures that:
 
-- **Add Activities**
+- Everyone knows where they need to be.
+- Schedules stay clear and manageable.
+- Teams can collaborate without endless calendar updates or conflicting events.
 
-  - **Click + Add** (top-right corner) to create a new item manually
-  - **Click & Drag** on the calendar to block out time and pre-fill start/end times
-
-- **Color Coding**: Activities are color-coded based on what they’re attached to:
-
-  - Area-based
-  - Collaborator-based
-  - Event
-
----
-
-## Editing activities
-
-Click on any activity to open its options:
-
-1. **Edit**
-
-   - Rename
-   - Change start/end time
-   - Delete
-
-2. **Segments**
-
-   - Attach detailed sub-events or breakdowns (explained in its own section)
-
----
-
-This flexible, visual scheduling system ensures everyone knows what’s happening, when, and where—helping you keep the chaos of live events under control.
+This is your single source of truth for all event timing—scalable, organized, and built specifically for the demands of live event production.

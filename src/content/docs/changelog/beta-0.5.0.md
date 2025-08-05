@@ -4,9 +4,6 @@ description: Release Notes for Beta-0.5.0
 lastUpdated: 2025-16-07
 sidebar:
   order: 6
-  badge:
-    text: Current
-    variant: success
 ---
 
 **Release Date:** July 31, 2025  
