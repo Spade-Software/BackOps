@@ -3,7 +3,7 @@ title: Segments
 description: An in depth look at Activity Segments
 lastUpdated: 2025-06-04
 sidebar:
-  order: 1
+  order: 4
   badge:
     text: Experimental
     variant: caution
@@ -23,7 +23,7 @@ next: Advancing
 - **Custom columns**: Add your own fields (e.g., Department, Responsible Party, Equipment Notes) to tailor the segment table to your workflow.
 
 - **Color coding**: Organize segments visually using color highlights.
-  -  Click the ⚙️ gear icon → Edit → Select color.
+  - Click the ⚙️ gear icon → Edit → Select color.
 
 ---
 
