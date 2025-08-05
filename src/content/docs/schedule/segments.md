@@ -12,7 +12,7 @@ next: Advancing
 
 **Segments** let you break down any scheduled **Activity** into detailed, time-based components—perfect for cue-to-cue show flows, run-of-shows, or scripted event sequences.
 
-> 💡 To access: Click on any activity in a schedule view and select **Segments**.
+> 💡 To access: Click on any activity in a schedule view, click the 3 dots in the top right, and select **View Segments**.
 
 ---
 

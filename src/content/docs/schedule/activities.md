@@ -6,8 +6,6 @@ sidebar:
   order: 2
 ---
 
-## **Activities**
-
 Activities are the building blocks of scheduling within BackOps. They define what is happening, when it’s happening, and who needs to be involved. While activities include all the basics you’d expect from any calendar system, they also extend far beyond that, allowing you to coordinate across areas, collaborators, and users with precision.
 
 ---
@@ -50,7 +48,6 @@ Organizers determine who has permission to edit an activity.
 - **Permissions** – Organizers can edit an activity; non-organizers cannot.
 - **Multiple Organizers** – Assign more than one organizer to share responsibility.
 - **Users vs. Collaborators** –
-
   - Both can be added as organizers for visibility.
   - **Only users** who are organizers receive edit permissions.
 
@@ -61,9 +58,8 @@ This structure ensures clarity around who controls the activity while still comm
 ### **Participants**
 
 Participants define who is expected (or invited) to an activity:
-
-- **Required Participants** – Users or collaborators who must attend.
-- **Optional Participants** – Users or collaborators who should be aware of the activity but are not required.
+- **Required** – Users or collaborators who must attend.
+- **Optional** – Users or collaborators who should be aware of the activity but are not required.
 
 Adding a collaborator or user as a participant automatically places the activity on their schedule, ensuring nothing gets missed.
 
@@ -74,10 +70,9 @@ Adding a collaborator or user as a participant automatically places the activity
 Marking an activity as **global** places it on the event-level calendar, giving it maximum visibility across the platform.
 
 - **When to Use:**
-
   - Event-wide meetings.
   - Major milestones (e.g., doors open/close).
-  - Safety-related cutoffs or site lockdowns.
+  - Safety-related cutoffs or site lock downs.
 
 Global activities ensure that mission-critical information is front and center for the entire production team.
 

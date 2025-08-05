@@ -10,7 +10,7 @@ Time Frames in BackOps provide **contextual highlights** over your calendars. Un
 
 ---
 
-### **What Are Time Frames Used For?**
+### **What are time frames used for?**
 
 Time frames can be used in a variety of ways to add structure and clarity to your event schedule. Examples include:
 
