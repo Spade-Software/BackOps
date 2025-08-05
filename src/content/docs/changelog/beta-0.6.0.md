@@ -1,7 +1,7 @@
 ---
 title: Beta-0.6.0
 description: Release Notes for Beta-0.6.0
-lastUpdated: 2025-16-07
+lastUpdated: 2025-04-08
 sidebar:
   order: 7
   badge:
@@ -9,10 +9,10 @@ sidebar:
     variant: success
 ---
 
-**Release Date:** July 31, 2025  
+**Release Date:** August 6, 2025  
 **Version:** `beta-0.6.0`
 
-This release introduces our new **Scheduling Expierence**, which provides powerful tools for managing activities, timelines, and visibility across your event calendars. With these updates, event teams can plan, coordinate, and execute with greater clarity and precision.
+This release introduces our new **Scheduling Experience**, which provides powerful tools for managing activities, timelines, and visibility across your event calendars. With these updates, event teams can plan, coordinate, and execute with greater clarity and precision.
 
 ---
 
@@ -57,3 +57,10 @@ This release introduces our new **Scheduling Expierence**, which provides powerf
   - Support for **naming**, **descriptions**, start and end times, and optional areas and participants.
   - Global time frames for event-wide visibility.
   - **Jump Points:** Time frames create sidebar navigation shortcuts for quick access to specific phases of the event.
+
+- **Calendar Experience Enhancements:**
+
+  - Calendar navigation is smoother and allows movement by 1 day in the week view
+  - Scroll position is retained when switching calendar views and navigating between dates
+  - Added Calendar sidebar
+  - Added all day events
