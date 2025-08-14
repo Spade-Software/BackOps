@@ -39,7 +39,7 @@ When you select a collaborator from the left hand navigation in BackOps, you’l
 - **Dashboard** – A summary view of activity, requests, and status
 - **Advancing** – Used to submit technical needs and interact with assigned modules
 - **Schedule** – A space to outline timelines, key dates, or work blocks
-- **Contacts** – Shows contact info for key members of the collaborators team
+- **Crew** – Manage all crew members (users) and contacts in one place
 - **Settings** – Manage user roles, access, and collaborator-specific preferences
 
 ---
@@ -53,7 +53,7 @@ Managing collaborators across your event is simple with the **Collaborator Manag
 - In the **left-side navigation bar**, under the **Collaborators** section, click **Manage Collaborators**.
 - You’ll land on a **table view** showing all collaborators currently added to the event.
 - Each row displays high-level collaborator info for quick reference.
-- **Clicking on any collaborator** will instantly open that collaborator’s profile—taking you to their **Dashboard** and full set of tools (Advancing, Schedule, Contacts, and Settings).
+- **Clicking on any collaborator** will instantly open that collaborator’s profile—taking you to their **Dashboard** and full set of tools (Advancing, Schedule, Crew, and Settings).
 
 ### Adding a Collaborator
 

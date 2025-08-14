@@ -26,7 +26,7 @@ In BackOps, advancing is:
 
 Each **Module** (e.g., Lighting, Labor, Credentials) provides a structured interface for collaborators to input:
 
-- Personnel and contact information
+- Crew information
 - Equipment or gear requests
 - Technical specifications
 - Scheduling needs
