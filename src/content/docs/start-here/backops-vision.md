@@ -16,7 +16,7 @@ Whether you’re planning a weekend festival, managing a multi-city tour, or pro
 We’re actively evolving BackOps into a centralized platform where all stakeholders—organizers, vendors, crew, and production teams—can collaborate in real time. Here's what we have in store:
 
 - **Seamless Show Planning & Advancing**
-  Centralize everything from technical riders to contact lists, with workflows for approvals and updates.
+  Centralize everything from technical riders to crew and contacts lists, with workflows for approvals and updates.
 
 - **Vendor Coordination, Approvals & Procurement**
   Streamline communication, track quotes, manage vendor onboarding, and lock in agreements faster.
