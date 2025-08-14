@@ -1,7 +1,7 @@
 ---
 title: Collaborator Permissions
 description: Dive into Collaborator Permissions
-lastUpdated: 2025-06-11
+lastUpdated: 2025-08-14
 sidebar:
   order: 5
 ---
@@ -20,7 +20,7 @@ This flexibility allows you to grant granular control over collaborator data and
 | Collaborator Delete          | `Delete`          | Delete the collaborator from the event.                                                  |
 | Collaborator Users Manage    | `Users.Manage`    | Add, remove, or manage users under the collaborator.                                     |
 | Collaborator Activities Add  | `Activities.Add`  | Add new activities associated with the collaborator.                                     |
-| Collaborator Contacts Manage | `Contacts.Manage` | Manage contacts associated with the collaborator.                                        |
 | Collaborator Advance Read    | `Advance.Read`    | View advancing data and submitted requests for the collaborator.                         |
 | Collaborator Advance Edit    | `Advance.Edit`    | Edit advance entries for the collaborator.                                               |
 | Collaborator Advance Approve | `Advance.Approve` | Approve submitted advance requests for the collaborator.                                 |
+| Collaborator Crew Manage     | `Crew.Manage`     | Manage adding, editing, and deleting crew members and configuring custom attributes.      |
