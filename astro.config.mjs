@@ -47,6 +47,10 @@ export default defineConfig({
           autogenerate: { directory: 'advancing' },
         },
         {
+          label: 'Crew',
+          autogenerate: { directory: 'crew' },
+        },
+        {
           label: 'Procurement',
           autogenerate: { directory: 'procurement' },
         },
